@@ -1,0 +1,25 @@
+{
+  "name": "kxuty",
+  "description": "Kmrweb.net universal utility",
+  "keywords": [
+    "knuty"
+  ],
+  "homepage": "http://www.kmrweb.net/server/knuty.html",
+  "license": "MIT",
+  "version": "0.2.1",
+  "author": {
+    "name": "michihiro kimura",
+    "email": "kimura@kmrweb.net"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.org/m0kimura/kxuty.git"
+  },
+  "dependencies": {
+    "fibers": "^1.0.15"
+  },
+  "engines": {
+    "node": ">=4.2.6"
+  },
+  "main": "./kxuty.js"
+}
